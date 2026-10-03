@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Krad Weather</string>
+
+    <string name="search_hint">Shahar nomini kiriting…</string>
+    <string name="search">Qidirish</string>
+    <string name="search_title">Shahar qidirish</string>
+    <string name="history_hint">Shahar nomini yozing (kamida 2 harf)</string>
+    <string name="my_location">Mening joylashuvim</string>
+    <string name="use_my_location">Joriy joylashuvim</string>
+    <string name="refresh">Yangilash</string>
+    <string name="retry">Qayta urinish</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="favorites">Sevimlilar</string>
+    <string name="fav_delete">O\'chirish</string>
+
+    <string name="loading">Yuklanmoqda…</string>
+    <string name="loading_weather">Ob-havo yuklanmoqda…</string>
+    <string name="no_internet">Internet aloqasi yo\'q</string>
+    <string name="error_generic">Xatolik yuz berdi. Qayta urinib ko\'ring.</string>
+    <string name="city_not_found">Shahar topilmadi</string>
+    <string name="location_denied">Joylashuv ruxsati berilmadi</string>
+    <string name="location_unavailable">Joylashuv mavjud emas</string>
+    <string name="location_failed">Joylashuv olinmadi</string>
+    <string name="empty_favorites">Sevimli shaharlar yo\'q. Qidiruv orqali qo\'shing.</string>
+
+    <string name="updated_fmt">Yangilangan: %1$s</string>
+    <string name="cached_badge"> · kesh</string>
+    <string name="section_hourly_tap">Keyingi 24 soat (batafsil uchun bosing)</string>
+    <string name="section_details">Tafsilotlar</string>
+
+    <string name="feels_like">His qilinadi</string>
+    <string name="humidity">Namlik</string>
+    <string name="wind">Shamol</string>
+    <string name="pressure">Bosim</string>
+    <string name="visibility">Ko\'rinish</string>
+    <string name="sunrise">Quyosh chiqishi</string>
+    <string name="sunset">Quyosh botishi</string>
+    <string name="clouds">Bulutlilik</string>
+    <string name="precipitation">Yog\'ingarchilik</string>
+    <string name="rain_amount">Yomg\'ir miqdori</string>
+    <string name="moon_phase">Oy fazasi</string>
+    <string name="uv_title">Ultrabinafsha (UV)</string>
+    <string name="dew_point">Shudring nuqtasi</string>
+    <string name="aqi_us_fmt">US EPA: %1$d</string>
+    <string name="precip_none">Yo\'q</string>
+    <string name="sun_title">Quyosh harakati</string>
+    <string name="wind_gust_fmt">Kuchayishi: %1$s m/s</string>
+
+    <string name="dialog_close">Yopish</string>
+    <string name="hour_title_fmt">Soat %1$s</string>
+    <string name="day_title_fmt">%1$s kuni</string>
+    <string name="dress_title">Bugun nima kiyaman? 👗</string>
+
+    <string name="add_favorite">Sevimlilarga qo\'shish</string>
+    <string name="remove_favorite">Sevimlilardan olib tashlash</string>
+    <string name="widget_desc">Krad Weather vidjeti</string>
+    <string name="widget_updating">Yangilanmoqda…</string>
+    <string name="widget_updated_fmt">Yangilangan: %1$s</string>
+
+    <string name="tab_home">Bosh</string>
+    <string name="tab_search">Qidiruv</string>
+    <string name="tab_favorites">Sevimli</string>
+    <string name="tab_settings">Sozlama</string>
+    <string name="next_24h">Keyingi 24 soat</string>
+    <string name="forecast_5day">5 kunlik prognoz</string>
+    <string name="forecast_7day">7 kunlik prognoz</string>
+    <string name="temp_chart">Harorat grafigi (24 soat)</string>
+    <string name="aqi_title">Havo sifati (AQI)</string>
+    <string name="recent_searches">So\'nggi qidiruvlar</string>
+    <string name="clear">Tozalash</string>
+    <string name="skip">O\'tkazib yuborish</string>
+    <string name="start">Boshlash</string>
+    <string name="daily_notification">Kunlik bildirishnoma</string>
+    <string name="daily_notification_desc">Har kuni ertalab ob-havo xabari</string>
+    <string name="theme">Mavzu</string>
+    <string name="theme_auto">Avto</string>
+    <string name="theme_light">Ochiq</string>
+    <string name="theme_dark">Tungi</string>
+    <string name="units_title">Harorat birligi (darhol qo\'llanadi)</string>
+    <string name="lang_title">Til (darhol qo\'llanadi)</string>
+    <string name="dyn_bg_desc">Ob-havoga qarab fon o\'zgaradi</string>
+    <string name="dynamic_bg">Dinamik fon</string>
+    <string name="footer_fmt">Krad Weather v%1$s  ·  OpenWeatherMap</string>
+    <string name="developer">Dasturchi</string>
+    <string name="developer_name">machine_dev</string>
+    <string name="developer_link">t.me/machine_dev</string>
+
+    <string name="ob_sub">Aniq ob-havo — cho\'ntagingizda</string>
+    <string name="ob_city_hint">Shaharingiz (masalan, Tashkent)</string>
+
+    <string name="topbar_share">Ulashish</string>
+
+    <string name="notif_channel">Ob-havo</string>
+    <string name="notif_channel_desc">Kunlik ob-havo va ogohlantirishlar</string>
+    <string name="notif_digest_fmt">%1$s — ob-havo tahlili</string>
+    <string name="notif_daily_fmt">%1$s — bugungi ob-havo</string>
+</resources>

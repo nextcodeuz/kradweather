@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Krad Weather</string>
+
+    <string name="search_hint">Введите название города…</string>
+    <string name="search">Поиск</string>
+    <string name="search_title">Поиск города</string>
+    <string name="history_hint">Введите город (минимум 2 буквы)</string>
+    <string name="my_location">Моё местоположение</string>
+    <string name="use_my_location">Моё текущее местоположение</string>
+    <string name="refresh">Обновить</string>
+    <string name="retry">Повторить</string>
+    <string name="settings">Настройки</string>
+    <string name="favorites">Избранное</string>
+    <string name="fav_delete">Удалить</string>
+
+    <string name="loading">Загрузка…</string>
+    <string name="loading_weather">Загрузка погоды…</string>
+    <string name="no_internet">Нет соединения с интернетом</string>
+    <string name="error_generic">Произошла ошибка. Попробуйте ещё раз.</string>
+    <string name="city_not_found">Город не найден</string>
+    <string name="location_denied">Разрешение на геолокацию отклонено</string>
+    <string name="location_unavailable">Местоположение недоступно</string>
+    <string name="location_failed">Не удалось получить местоположение</string>
+    <string name="empty_favorites">Нет избранных городов. Добавьте через поиск.</string>
+
+    <string name="updated_fmt">Обновлено: %1$s</string>
+    <string name="cached_badge"> · кэш</string>
+    <string name="section_hourly_tap">Ближайшие 24 часа (нажмите для деталей)</string>
+    <string name="section_details">Детали</string>
+
+    <string name="feels_like">Ощущается</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind">Ветер</string>
+    <string name="pressure">Давление</string>
+    <string name="visibility">Видимость</string>
+    <string name="sunrise">Восход</string>
+    <string name="sunset">Закат</string>
+    <string name="clouds">Облачность</string>
+    <string name="precipitation">Осадки</string>
+    <string name="rain_amount">Количество дождя</string>
+    <string name="moon_phase">Фаза луны</string>
+    <string name="uv_title">Ультрафиолет (UV)</string>
+    <string name="dew_point">Точка росы</string>
+    <string name="aqi_us_fmt">US EPA: %1$d</string>
+    <string name="precip_none">Нет</string>
+    <string name="sun_title">Движение солнца</string>
+    <string name="wind_gust_fmt">Порывы: %1$s м/с</string>
+
+    <string name="dialog_close">Закрыть</string>
+    <string name="hour_title_fmt">%1$s часов</string>
+    <string name="day_title_fmt">День: %1$s</string>
+    <string name="dress_title">Что надеть сегодня? 👗</string>
+
+    <string name="add_favorite">В избранное</string>
+    <string name="remove_favorite">Убрать из избранного</string>
+    <string name="widget_desc">Виджет Krad Weather</string>
+    <string name="widget_updating">Обновление…</string>
+    <string name="widget_updated_fmt">Обновлено: %1$s</string>
+
+    <string name="tab_home">Главная</string>
+    <string name="tab_search">Поиск</string>
+    <string name="tab_favorites">Избранное</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="next_24h">Ближайшие 24 часа</string>
+    <string name="forecast_5day">Прогноз на 5 дней</string>
+    <string name="forecast_7day">Прогноз на 7 дней</string>
+    <string name="temp_chart">График температуры (24 часа)</string>
+    <string name="aqi_title">Качество воздуха (AQI)</string>
+    <string name="recent_searches">Недавние поиски</string>
+    <string name="clear">Очистить</string>
+    <string name="skip">Пропустить</string>
+    <string name="start">Начать</string>
+    <string name="daily_notification">Ежедневные уведомления</string>
+    <string name="daily_notification_desc">Прогноз каждое утро</string>
+    <string name="theme">Тема</string>
+    <string name="theme_auto">Авто</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="units_title">Единицы температуры (применяются сразу)</string>
+    <string name="lang_title">Язык (применяется сразу)</string>
+    <string name="dyn_bg_desc">Фон меняется по погоде</string>
+    <string name="dynamic_bg">Динамический фон</string>
+    <string name="footer_fmt">Krad Weather v%1$s  ·  OpenWeatherMap</string>
+    <string name="developer">Разработчик</string>
+    <string name="developer_name">machine_dev</string>
+    <string name="developer_link">t.me/machine_dev</string>
+
+    <string name="ob_sub">Точная погода — в вашем кармане</string>
+    <string name="ob_city_hint">Ваш город (например, Ташкент)</string>
+
+    <string name="topbar_share">Поделиться</string>
+
+    <string name="notif_channel">Погода</string>
+    <string name="notif_channel_desc">Ежедневная погода и предупреждения</string>
+    <string name="notif_digest_fmt">%1$s — разбор погоды</string>
+    <string name="notif_daily_fmt">%1$s — погода сегодня</string>
+</resources>

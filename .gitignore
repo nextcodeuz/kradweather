@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+.kotlin/
+build/
+.cxx/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+captures/
+
+# Keystore va imzo kalitlari — HECH QACHON commit qilinmasin
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Proguard mapping (release artefaktlari)
+app/build/

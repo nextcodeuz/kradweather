@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Quyosh nurlari -->
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M54,16 L54,24 M54,56 L54,64 M26,40 L34,40 M74,40 L82,40 M34.2,20.2 L39.9,25.9 M68.1,54.1 L73.8,59.8 M73.8,20.2 L68.1,25.9 M39.9,54.1 L34.2,59.8" />
+    <!-- Quyosh gardishi -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M56,40 a16,16 0 1,1 -32,0 a16,16 0 1,1 32,0" />
+    <!-- Bulut soyasi -->
+    <path
+        android:fillColor="#B3E5FC"
+        android:pathData="M38,72 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 M54,66 m-15,0 a15,15 0 1,0 30,0 a15,15 0 1,0 -30,0 M70,72 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 M28,72 L82,72 L82,80 L28,80 Z" />
+    <!-- Bulut tanasi -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,68 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 M54,62 m-15,0 a15,15 0 1,0 30,0 a15,15 0 1,0 -30,0 M70,68 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0 M28,68 L82,68 L82,78 L28,78 Z" />
+</vector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="day_primary">#FF1565C0</color>
+    <color name="night_primary">#FF1A237E</color>
+    <color name="sunny_accent">#FFFFB300</color>
+    <color name="rain_accent">#FF0288D1</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

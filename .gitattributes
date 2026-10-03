@@ -1,0 +1,14 @@
+# Barcha matnli fayllar uchun avto qator oxiri
+* text=auto
+
+# Wrapper skriptlar — OS ga mos qator oxiri (gradlew Linux/macOS'da sinmasligi shart)
+gradlew text eol=lf
+*.bat text eol=crlf
+*.kts text eol=lf
+*.kt text eol=lf
+*.xml text eol=lf
+*.java text eol=lf
+*.cpp text eol=lf
+*.txt text eol=lf
+*.pro text eol=lf
+*.md text eol=lf
